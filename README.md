@@ -2,7 +2,7 @@
 
 Inspired and helped massive along by Andrew Freemantles excellent Gravatar Html Helper here: https://github.com/AndrewFreemantle/Gravatar-HtmlHelper
 
-# A .NET Core TagHelper extension for Gravatar - tested with Core 1, 1.1, 2.1 and 3.1
+# An ASP.NET Core TagHelper extension for Gravatar - tested with Core 1, 1.1, 2.1 and 3.1
 
 What's Gravatar? https://en.gravatar.com/
 
